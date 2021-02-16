@@ -11,7 +11,6 @@ function renderMovies(movieArray) {
         </div>
     </div>`
     });
-    console.log(movieHtmlArray)
     return movieHtmlArray.join("");
 }
 
